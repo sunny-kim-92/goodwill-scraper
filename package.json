@@ -1,0 +1,15 @@
+{
+    "name": "goodwill-scraper",
+    "version": "0.0.1",
+    "type": "module",
+    "description": "Scraper for Goodwill at ShopGoodwill",
+    "dependencies": {
+        "crawlee": "^3.0.0",
+        "playwright": "^1.42.0"
+    },
+    "scripts": {
+        "start": "node src/main.js"
+    },
+    "author": "SK",
+    "license": "ISC"
+}
